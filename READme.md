@@ -2,10 +2,10 @@
 
 <b>Description</b>
 
-Address app let's the user to enter their name, last name and address. Allows the user click on the listed name and show address.
+Address app let's the user to enter their name, last name and multiple addresses. Allows the user click on the listed name and show addresses.
 
 
-April 13th, 2015 | Erica Cha & Kelly de Vries
+April 13th, 2015 | Erica Cha & Virginie Trubiano
 
 <b>Technologies</b>
 
@@ -22,7 +22,7 @@ CSS<br>
 
 Clone this repository.
 Open 'address-book.html' in a web browser (file is in project root directory). <br><br>
-Copyright © 2015 Erica Cha & Kelly de Vries
+Copyright © 2015 Erica Cha & Virginie Trubiano
 
 <b>License</b>
 
