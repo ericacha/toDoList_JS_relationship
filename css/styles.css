@@ -1,0 +1,13 @@
+/*this will show the first name, last name and address at the right side of the page.*/
+
+#show-contact {
+    display: none;
+}
+
+.contact {
+    cursor: pointer;
+    color: #0088cc;
+}
+.contact: hover {
+    text-decoration: underline;
+}
