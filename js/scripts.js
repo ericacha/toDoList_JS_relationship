@@ -12,12 +12,24 @@ $(document).ready(function() {
 
         $("input#new-title").val('');
 
-    });
 
 
-    $('ul#lists').last().click(function() {
+    $('.list').last().click(function() {
         $('#task_page').show();
-        $('#task_page h3').text(newTitle.name);
+        // // $('#task_page').append('<h3></h3>' +
+        // //     '<ul class="tasks">' +
+        // //     '</ul>' +
+        // //
+        // //     '<form id="task">' +
+        // //         '<h3>Add a task :</h3>' +
+        // //         '<label for="description">Description of the task :</label>' +
+        // //         '<input type="text" id="description">' +
+        // //
+        // //         "<button type='submit'>Add</button>" +
+        // //
+        // //     '</form>');
+
+        $('#task_page h4').text(newTitle.name);
 
         $("form#task").submit(function(event) {
             event.preventDefault();
@@ -35,7 +47,7 @@ $(document).ready(function() {
         });
 
     });
-
+});
 
 
 });
