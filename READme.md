@@ -2,7 +2,7 @@
 
 <b>Description</b>
 
-Address app let's the user to enter add and assign their list of things to do. 
+Address app let's the user to add and assign their list of things to do. 
 
 
 April 13th, 2015 | Erica Cha & Virginie Trubiano
