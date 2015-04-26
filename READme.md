@@ -1,8 +1,8 @@
-<h1> Address Book </h1>
+<h1> To Do List </h1>
 
 <b>Description</b>
 
-Address app let's the user to enter their name, last name and multiple addresses. Allows the user click on the listed name and show addresses.
+Address app let's the user to enter add and assign their list of things to do. 
 
 
 April 13th, 2015 | Erica Cha & Virginie Trubiano
@@ -21,7 +21,7 @@ CSS<br>
 <b>Setup Instructions</b>
 
 Clone this repository.
-Open 'address-book.html' in a web browser (file is in project root directory). <br><br>
+Open 'to-do-list.html' in a web browser (file is in project root directory). <br><br>
 Copyright © 2015 Erica Cha & Virginie Trubiano
 
 <b>License</b>
